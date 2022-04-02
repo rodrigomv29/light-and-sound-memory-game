@@ -58,7 +58,7 @@ If I had more time I would work on more animations so that the buttons would hav
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/0f06678117324851b8d52793ade29ad5)
 
 
 ## License
