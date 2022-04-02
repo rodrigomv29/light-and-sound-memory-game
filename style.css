@@ -32,6 +32,24 @@ button {
   height:200px;
   margin:2px;
 }
+.bounce {
+  border-radius: 65%;
+  background: blue;
+  position: fixed;
+  width: 100px;
+  height: 120px;
+  top: 60%;
+  opacity: 10%;
+  animation-name: jump;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-out;
+}
+@keyframes jump {
+  10% {
+    top: 100%;
+  }
+}
 .hidden {
   display: none;
   
