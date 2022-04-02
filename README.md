@@ -6,7 +6,7 @@ Submitted by: **Rodrigo Morales**
 
 Time spent: **10** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://wholesale-buttercup-mum.glitch.me)
 
 ## Required Functionality
 
